@@ -1,0 +1,11 @@
+INFO:     127.0.0.1:60021 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60022 - "POST /api/transcribe-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55841 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55842 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59084 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59085 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59087 - "POST /api/transcribe-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49223 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55064 - "POST /api/vocabulary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64039 - "DELETE /api/vocabulary/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64041 - "GET /api/health HTTP/1.1" 200 OK

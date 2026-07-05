@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.playwright/
+playwright-report/
+test-results/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+backend/storage/audio/
+backend/storage/models/
+backend/storage/langtool/
+backend/storage/session.db
+.DS_Store
+

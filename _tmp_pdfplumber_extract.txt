@@ -1,0 +1,39 @@
+PAGES: 1
+
+===== PAGE 1 =====
+ABSTRACT
+AI-based Partial Speech-to-Text Convertion and Correction System
+“A system that converts partial, unclear, or broken speech into clear and complete text.”
+Speech-to-text technology has become an essential component of modern human–computer
+interaction. However, existing systems perform poorly when the speech input is partial,
+unclear, noisy, or grammatically broken, resulting in inaccurate and incomplete transcriptions.
+This project proposes an AI-based Partial Speech-to-Text Convertion and Correction
+System that converts fragmented user speech into clear, meaningful, and grammatically
+correct text in real time.The system pipeline includes five major stages: audio capture and
+preprocessing, automatic speech recognition (ASR), NLP-based text correction, context
+completion, and real-time output generation. Initially, the audio stream is processed using noise
+reduction, silence detection, and chunking for low-latency performance. A speech recognition
+model such as Whisper or DeepSpeech provides partial transcripts along with confidence
+scores. These transcripts are then refined through an intelligent NLP correction engine that
+performs spelling and grammar correction, filler-word removal, and context-aware word
+prediction using a language model. The system further applies semantic understanding,
+ensuring that incoherent fragments are reconstructed into fluent sentences. Output text is
+continuously revised as more speech arrives, enabling dynamic improvement in accuracy.
+The proposed system also uses a data layer to store user-specific vocabulary, session history,
+and evolving model parameters, enabling personalized learning and improved long-term
+performance. Experimental evaluation demonstrates that the system significantly enhances
+transcription accuracy in noisy and fragmented speech conditions, compared to raw ASR
+outputs.
+This technology has a wide range of practical applications including note dictation, interview
+and meeting transcription, assistive accessibility tools, language learning, and hands-free
+computing. By combining real-time speech processing with advanced natural language
+understanding, the project provides a robust solution to improve communication experiences
+where speech is imperfect or incomplete.
+Project Guide Name:
+Project Guide Signature:
+Project Associates
+Ms.T.Kushumanjali (22A91A1255)
+Ms. P.Jyothika (22A91A1239)
+Mr. P.V.ManikantaReddy (22A91A1238)
+Ms. M.Vijji (22A91A1234)
+
